@@ -1,0 +1,54 @@
+.card {
+    width: 500px;
+    height: fit-content;
+    background-color: aliceblue;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+#borda1 {
+    border: solid 2px #8e22e7;
+}
+
+#borda2 {
+    border: solid 2px #65b424;
+}
+
+.imagemPerfil {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 10px 0px 10px 20px
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+}
+
+.mensagem {
+    padding: 20px;
+    font-family: Arial;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.corPadrao1 {
+    color: #8e22e7;
+}
+
+.corPadrao2 {
+    color: #65b424;
+}
+
+.estiloTexto {
+    font-style: italic;
+}
