@@ -20,10 +20,6 @@ h1 {
     background-color: antiquewhite;
     border: solid 2px #212427;
     display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-    flex-direction: row;
-    
 }
 
 .filho {
@@ -40,6 +36,7 @@ h1 {
 .cor2 {
     background-color: #63B1BC;
     align-self: flex-end;
+    order: 3;
 }
 
 .cor3 {
